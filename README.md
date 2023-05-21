@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Victor Carvalho! 👋
 
-<!--
-**VictorAlvarengaCarvalho/VictorAlvarengaCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
 
-Here are some ideas to get you started:
+- 🎓 Currently pursuing a postgraduate degree in Data Science and Analytics at USP.
+- 💼 Experienced engineer specializing in land surveying, cartography, and geoprocessing.
+- ⚡️ Worked extensively with Geographic Information Systems (GIS) applied to power transmission lines, hydrographic surveys, and the oil and gas industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills
+
+- 🌐 Geoprocessing: GIS, spatial analysis, data manipulation, and visualization.
+- 📊 Data Science: Data cleaning, exploratory data analysis, and predictive modeling.
+- 💻 Programming: Python, R , PostGIS and Scilab.
+- 📈 Data Visualization: Creating meaningful visual representations of geographic data.
+- 🧠 Machine Learning: Developing models and applying algorithms for data-driven insights.
+
+
