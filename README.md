@@ -1,8 +1,8 @@
 ### Hi there, I'm Victor Carvalho! 👋
 
 #### About Me
-
-- 🎓 Currently pursuing a postgraduate degree in Data Science and Analytics at USP.
+- 🎓 Master's student in Geodesy and Hydrography at the University of Viçosa in the Postgraduate Program in Civil Engineering..
+- 🎓 Postgraduate in Data Science and Analytics at USP.
 - 💼 Experienced engineer specializing in land surveying, cartography, and geoprocessing.
 - ⚡️ Worked extensively with Geographic Information Systems (GIS) applied to power transmission lines, hydrographic surveys, and the oil and gas industry.
 
